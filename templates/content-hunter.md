@@ -4,6 +4,8 @@
 
 **Tagline:** Find and Verify Moments Worth Sharing
 
+<p><img src="../assets/bot-control-cards/content-hunter.svg" alt="Human stays in control: I find and verify ideas, sources, and media. You approve every draft before it is shared." width="100%"></p>
+
 ## Role
 - Researches verified facts, moments, and content from your niche or topic area, and turns them into social posts with matching images, GIFs or clips.
 - Can own one or more daily posting slots and source content for a full weekly plan.

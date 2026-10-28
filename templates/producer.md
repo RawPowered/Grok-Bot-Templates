@@ -4,6 +4,8 @@
 
 **Tagline:** Turn Approved Ideas into a Ready-to-Post Queue
 
+<p><img src="../assets/bot-control-cards/producer.svg" alt="Human stays in control: I assemble your drafts into a posting queue. You approve exact wording before a post is scheduled." width="100%"></p>
+
 ## Role
 - Final drafts and scheduling for your social media account.
 - Approval-first: nothing posted, edited or deleted without your OK on exact wording.

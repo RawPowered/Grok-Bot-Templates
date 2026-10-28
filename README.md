@@ -6,6 +6,8 @@ An independent community collection of Grok Bot templates for solo creators and 
 
 **Independent community project:** This repository is not an official Grok Bot product and is not affiliated with, endorsed by, or sponsored by X, xAI, their affiliates, or the Grok Bot team. “Grok Bot,” its logos, and related marks belong to their respective rights holders. I do not claim ownership of Grok Bot or any associated intellectual property. I cannot provide support for the Grok Bot product; support here is limited to these community-authored templates.
 
+**Approval-first workflow:** These templates tell each bot where to stop and bring consequential work to you for review. You retain final say over posts, replies, emails, and submissions. Review connected-tool permissions during setup; the cards describe the intended workflow, while permissions determine what a bot can technically do.
+
 **Start with the templates:** [Content bots](#content-team) · [Work bots](#work-team) · [How they work together](#how-they-work-together) · [Using one alone](#how-each-works-alone)
 
 <h2 id="content-team"><img src="https://raw.githubusercontent.com/RawPowered/RawPowered/main/assets/profile/sections/project-mark.svg" alt="" width="28" height="28"> Content team</h2>
@@ -20,6 +22,8 @@ Four bots that build, schedule, and grow your social media presence. Post one me
 <p align="center"><img src="assets/bot-icons/analytics-and-growth.png" alt="Violet glass Grok Bot icon for analytics and growth" width="180"></p>
 
 <p><em>Turn Account Insights into a Smarter Content Plan</em></p>
+
+<p><img src="assets/bot-control-cards/analytics-and-growth.svg" alt="Human stays in control: I turn account signals into a clear plan. You choose priorities. Posts and replies need your OK." width="100%"></p>
 
 **What it does:** reviews your account's performance, finds what's working, and builds a posting plan with times and content types.
 
@@ -37,6 +41,8 @@ Four bots that build, schedule, and grow your social media presence. Post one me
 <p align="center"><img src="assets/bot-icons/content-hunter.png" alt="Coral glass Grok Bot icon for content discovery" width="180"></p>
 
 <p><em>Find and Verify Moments Worth Sharing</em></p>
+
+<p><img src="assets/bot-control-cards/content-hunter.svg" alt="Human stays in control: I find and verify ideas, sources, and media. You approve every draft before it is shared." width="100%"></p>
 
 **What it does:** finds and verifies real moments, clips, images and facts in your niche, then drafts posts.
 
@@ -57,6 +63,8 @@ Four bots that build, schedule, and grow your social media presence. Post one me
 
 <p><em>Join the Right Conversations in Your Voice</em></p>
 
+<p><img src="assets/bot-control-cards/replies.svg" alt="Human stays in control: I draft reply options in your voice. You choose, edit, and post each response." width="100%"></p>
+
 **What it does:** finds good conversations to join and drafts replies in your voice.
 
 **Features:**
@@ -73,6 +81,8 @@ Four bots that build, schedule, and grow your social media presence. Post one me
 <p align="center"><img src="assets/bot-icons/producer.png" alt="Amber glass Grok Bot icon for production and publishing" width="180"></p>
 
 <p><em>Turn Approved Ideas into a Ready-to-Post Queue</em></p>
+
+<p><img src="assets/bot-control-cards/producer.svg" alt="Human stays in control: I assemble your drafts into a posting queue. You approve exact wording before a post is scheduled." width="100%"></p>
 
 **What it does:** turns ideas into final drafts, checks them against your rules, gets your approval, and schedules them.
 
@@ -102,6 +112,8 @@ Two bots that handle job search, freelance outreach, and email. Post one update 
 
 <p><em>Find the Right Job and Keep Your Search Moving</em></p>
 
+<p><img src="assets/bot-control-cards/work-and-email.svg" alt="Human stays in control: I find roles and prepare emails or applications. You approve every send and submission." width="100%"></p>
+
 **What it does:** handles email, resumes, cover letters and applications.
 
 **Features:**
@@ -118,6 +130,8 @@ Two bots that handle job search, freelance outreach, and email. Post one update 
 <p align="center"><img src="assets/bot-icons/career-and-outreach.png" alt="Rose glass Grok Bot icon for career writing and outreach" width="180"></p>
 
 <p><em>Finalize a Cover Letter That Fits the Role and Sounds Like You</em></p>
+
+<p><img src="assets/bot-control-cards/career-and-outreach.svg" alt="Human stays in control: I write and refine your letters and outreach. I never send or submit. You approve before a partner acts." width="100%"></p>
 
 **What it does:** handles job and client outreach and keeps your background facts consistent.
 

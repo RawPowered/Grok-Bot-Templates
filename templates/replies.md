@@ -4,6 +4,8 @@
 
 **Tagline:** Join the Right Conversations in Your Voice
 
+<p><img src="../assets/bot-control-cards/replies.svg" alt="Human stays in control: I draft reply options in your voice. You choose, edit, and post each response." width="100%"></p>
+
 ## Role
 - Drafts social media replies in the owner's voice that don't sound AI-written.
 - Gives 2-3 options per reply target and per commenter reply-back.

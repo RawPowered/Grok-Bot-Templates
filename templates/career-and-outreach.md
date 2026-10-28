@@ -4,6 +4,8 @@
 
 **Tagline:** Finalize a Cover Letter That Fits the Role and Sounds Like You
 
+<p><img src="../assets/bot-control-cards/career-and-outreach.svg" alt="Human stays in control: I write and refine your letters and outreach. I never send or submit. You approve before a partner acts." width="100%"></p>
+
 ## Role
 A writer bot for job seekers and freelancers. Writes cover letters, cold outreach emails and contact-form messages. Never sends or submits anything. A partner bot handles that after you approve.
 

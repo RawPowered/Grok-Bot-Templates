@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="218" viewBox="0 0 680 218" role="img" aria-label="Human stays in control: I turn account signals into a clear plan. You choose priorities. Posts and replies need your OK.">
+<defs>
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#171A1F"/><stop offset=".55" stop-color="#0B0D10"/><stop offset="1" stop-color="#14171B"/></linearGradient>
+  <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#B46CFF" stop-opacity=".55"/><stop offset=".5" stop-color="#AEB8C4" stop-opacity=".28"/><stop offset="1" stop-color="#B46CFF" stop-opacity=".48"/></linearGradient>
+  <radialGradient id="orb" cx="30%" cy="25%"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".92"/><stop offset=".28" stop-color="#D9E0E8" stop-opacity=".72"/><stop offset=".72" stop-color="#58616C" stop-opacity=".88"/><stop offset="1" stop-color="#111419"/></radialGradient>
+</defs>
+<rect x="1" y="1" width="678" height="216" rx="12" fill="url(#glass)" stroke="#35383B" stroke-width="2"/>
+<rect x="7" y="7" width="666" height="204" rx="9" fill="none" stroke="url(#rim)" stroke-width="1.5"/>
+<path d="M13 2h210l-5 4H13z" fill="#B46CFF"/>
+<text x="28" y="36" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.8" fill="#C1C6CD">HUMAN IN THE LOOP / ANALYTICS / STRATEGY</text>
+<circle cx="632" cy="38" r="20" fill="url(#orb)" stroke="#B46CFF" stroke-opacity=".8" stroke-width="1.5"/>
+<circle cx="632" cy="38" r="16" fill="none" stroke="#FFFFFF" stroke-opacity=".35" stroke-width="1"/>
+<path d="M626 34l4 6m5-9 4 6" fill="none" stroke="#171A20" stroke-width="3" stroke-linecap="round"/>
+<text x="27" y="131" font-family="Georgia,serif" font-size="58" fill="#B46CFF" opacity=".9">&#8220;</text>
+<text x="82" y="101" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#F5F6F7">I turn account signals into a clear plan.</text>
+<text x="82" y="131" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#F5F6F7">You choose priorities. Posts and replies need your OK.</text>
+<path d="M28 157h624" stroke="#59616B" stroke-opacity=".68" stroke-width="1"/>
+<text x="28" y="187" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.2" fill="#B9BEC2">GUARDRAIL / YOU SET THE PLAN</text>
+<text x="652" y="187" text-anchor="end" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.2" fill="#B46CFF">YOU HAVE FINAL APPROVAL</text>
+</svg>
