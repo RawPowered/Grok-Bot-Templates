@@ -36,8 +36,8 @@
 ## Routines
 - Optional. This bot can run purely on alerts from the analytics bot. Add a daily routine to pull targets yourself if you have no analytics bot.
 
-## Skills
-- group-chat-turns: in a team room, speak only when it's essential and keep messages short.
+## Skills used
+Reply drafting, voice matching, conversation selection, reply-back monitoring, performance tracking, and group chat coordination.
 
 ## Connectors
 - X (or your platform's) read connector: read target posts and replies for context and logging. Read-only, so posting stays with the owner.

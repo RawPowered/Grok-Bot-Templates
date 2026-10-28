@@ -8,7 +8,13 @@ An independent community collection of Grok Bot templates for solo creators and 
 
 **Approval-first workflow:** These templates tell each bot where to stop and bring consequential work to you for review. You retain final say over posts, replies, emails, and submissions. Review connected-tool permissions during setup; the cards describe the intended workflow, while permissions determine what a bot can technically do.
 
-**Start with the templates:** [Content bots](#content-team) · [Work bots](#work-team) · [How they work together](#how-they-work-together) · [Using one alone](#how-each-works-alone)
+<h2 id="get-started"><img src="https://raw.githubusercontent.com/RawPowered/RawPowered/main/assets/profile/sections/project-mark.svg" alt="" width="28" height="28"> Get started</h2>
+
+To use a template, create a new bot in Grok Bot and paste the template's contents into that bot's instructions or description field. Connect any connectors the template lists (email, GitHub, X, or others). Then set your own schedule times and preferences to match your workflow (see [About schedule times](#about-schedule-times) for guidance).
+
+You can start with one bot and add others later. Each new bot picks up shared memory automatically.
+
+**Start with the templates:** [Get started](#get-started) · [Content bots](#content-team) · [Work bots](#work-team) · [How they work together](#how-they-work-together) · [Using one alone](#how-each-works-alone)
 
 <h2 id="content-team"><img src="https://raw.githubusercontent.com/RawPowered/RawPowered/main/assets/profile/sections/project-mark.svg" alt="" width="28" height="28"> Content team</h2>
 
@@ -114,10 +120,10 @@ Two bots that handle job search, freelance outreach, and email. Post one update 
 
 <p><img src="assets/bot-control-cards/work-and-email.svg" alt="Human stays in control: I find roles and prepare emails or applications. You approve every send and submission." width="100%"></p>
 
-**What it does:** handles email, resumes, cover letters and applications.
+**What it does:** finds roles that fit, keeps your inbox moving, and prepares applications and outreach for your OK.
 
 **Features:**
-- Job search and email assistant
+- Daily job shortlist and reply watch
 - Resume and cover letter drafting
 - Application form management
 - Freelance outreach workflow
@@ -157,7 +163,7 @@ Two teams, each with a group chat, and you approve everything.
 **Work team:** post one update in the coordination chat, and both the email bot and the outreach bot act on it together without duplicating work.
 
 Across both teams:
-- **Shared memory:** something you tell one bot about yourself (your rules, voice, preferences) is known to all of them.
+- **Shared memory:** facts about you (like your name, time zone, rules and preferences) are shared across your bots, while each bot also keeps its own notes for its role.
 - **Shared computer:** files one bot makes are ready for the others to use.
 - **Handoffs:** bots can message each other directly to pass work along.
 - **You approve:** nothing gets posted, sent or deleted without your OK.
@@ -170,8 +176,8 @@ Every template is a complete bot by itself. You don't need the rest of the team.
 - **Content hunter alone:** gives you verified post ideas with images or clips, ready for you to post.
 - **Replies alone:** gives you a daily list of reply targets with drafted replies.
 - **Producer alone:** takes your rough ideas, polishes them against your rules, and schedules what you approve.
-- **Work and email alone:** manages your inbox and builds application materials.
-- **Career and outreach alone:** finds leads and drafts outreach for you to review.
+- **Work and email alone:** finds roles and prospects, manages your inbox, and builds application materials.
+- **Career and outreach alone:** writes and polishes your letters and outreach for you to review.
 
 The group chat templates only matter once you have two or more bots. Start with one, then add others as you need them. Each new bot picks up shared memory automatically.
 
