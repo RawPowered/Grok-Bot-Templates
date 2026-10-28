@@ -1,4 +1,4 @@
-![Grok Bot Templates banner: official Grok Bot wordmark with a dark glass and lime treatment](assets/grok-bot-templates-banner.png)
+![Grok Bot Templates banner: the official Grok Bot wordmark beside six distinct connected glass bots, linked with lime accents](assets/grok-bot-templates-banner.png)
 
 # Grok Bot Templates
 
