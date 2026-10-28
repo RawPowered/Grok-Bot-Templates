@@ -34,7 +34,7 @@ Job search and email assistant for job seekers and freelancers. Helps with appli
 - Scheduled sends: send approved drafts at your chosen times.
 
 ## Skills used
-job-search, LinkedIn site playbook, send-on-behalf, agent-email, routines, scheduling, box-desktop, sign-in, in-chat-forms, vault, canvas, source-control, unblock-research, skill-authoring, group-chat-turns.
+Job search, prospect research, website review, email drafting, inbox management, scheduling, browser forms, saved logins, portfolio links, and cover letter assembly.
 
 ## Connectors and tools
 - Email connector (Gmail or Outlook): read the inbox, create drafts, send only with approval.

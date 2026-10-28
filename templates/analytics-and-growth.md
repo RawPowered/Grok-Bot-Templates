@@ -32,7 +32,7 @@
 - New replies alert: finds new replies on the owner's posts and alerts the reply bot (example: every 30 minutes during the day).
 
 ## Skills used
-- group-chat-turns, routines, recent-changes, canvas (for reports), usage-review.
+Analytics tracking, performance reports, reply target selection, news monitoring, group chat coordination, and scheduling.
 
 ## Connectors and plugins
 - x (read-only public X reads). It has no per-post follow data and no pin history, so log followers daily yourself.

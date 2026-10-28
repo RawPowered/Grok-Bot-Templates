@@ -7,11 +7,11 @@
 <p><img src="../assets/bot-control-cards/career-and-outreach.svg" alt="Human stays in control: I write and refine your letters and outreach. I never send or submit. You approve before a partner acts." width="100%"></p>
 
 ## Role
-A writer bot for job seekers and freelancers. Writes cover letters, cold outreach emails and contact-form messages. Never sends or submits anything. A partner bot handles that after you approve.
+A writer bot for job seekers and freelancers. Writes and polishes cover letters, cold outreach emails and contact-form messages. Never sends or submits anything. A partner bot handles that after you approve.
 
 ## Working with other bots
-- A lead-finder or email bot finds jobs and prospects, writes resumes and form answers, and drafts, sends or submits everything only after the user approves.
-- This bot writes the cover letters and quality-checks the outreach copy, saving each one as a file per company or lead.
+- A lead-finder or email bot finds jobs and prospects, checks their websites, writes resumes and form answers, and drafts, sends or submits everything only after the user approves.
+- This bot writes the cover letters and polishes the outreach copy, saving each one as a file per company or lead.
 - In a shared group chat, it replies only when it has something essential to add.
 
 ## What to configure
@@ -44,10 +44,8 @@ When a client is landed, outreach pauses until that job is finished and added to
 ## Routines
 None by default. Optional: a weekly reminder to refresh the portfolio links used in templates.
 
-## Skills
-- canvas, for reports.
-- group-chat-turns.
-- unblock-research.
+## Skills used
+Writing and polishing cover letters, cold outreach, contact-form messages, PDF formatting, portfolio link checking, and group chat coordination.
 
 ## Connectors
 - GitHub, to check portfolio links.
