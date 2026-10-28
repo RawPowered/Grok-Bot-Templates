@@ -1,4 +1,4 @@
-# Coordination group chat (two-bot team)
+# Grok Bot: Coordination Group Chat
 
 Members: a work and email assistant and a second assistant (for example, applications and outreach).
 
@@ -13,4 +13,4 @@ Members: a work and email assistant and a second assistant (for example, applica
 - Anything that goes out under the owner's name still needs the owner's approval first.
 
 ## About schedule times
-Any times in this template are examples. The originals were either picked from analytics or chosen by the owner. Set your own times to fit your posting needs. The analytics bot template (Toshi) can help you work out the best ones.
+Any times in this template are examples. Set your own times to fit your work schedule and outreach preferences.

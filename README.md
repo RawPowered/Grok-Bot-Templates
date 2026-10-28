@@ -11,9 +11,9 @@ Four bots that build, schedule, and grow your social media presence. Post one me
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3 id="toshi-analytics">Toshi: Analytics and growth</h3>
+<h3 id="analytics-growth">Analytics and growth</h3>
 
-**My work:** reviews your account's performance, finds what's working, and builds a posting plan with times and content types.
+**What it does:** reviews your account's performance, finds what's working, and builds a posting plan with times and content types.
 
 **Features:**
 - Tracks analytics and growth strategy
@@ -21,27 +21,27 @@ Four bots that build, schedule, and grow your social media presence. Post one me
 - Weekly engagement reports
 - News watch and performance analysis
 
-**Explore:** [Toshi template](templates/toshi-analytics.md)
+**Explore:** [Analytics and growth template](templates/analytics-and-growth.md)
 </td>
 <td width="50%" valign="top">
-<h3 id="steve-clips">STEVE SMITH: Content hunter</h3>
+<h3 id="content-hunter">Content hunter</h3>
 
-**My work:** finds and verifies real moments, clips, images and facts in your niche, then drafts posts.
+**What it does:** finds and verifies real moments, clips, images and facts in your niche, then drafts posts.
 
 **Features:**
-- Researches verified trivia and Easter eggs
+- Researches verified facts and content
 - Creates matching images, GIFs or clips
 - Weekly content planning
-- Source verification and fact checking
+- Source verification
 
-**Explore:** [STEVE SMITH template](templates/steve-smith-clips.md)
+**Explore:** [Content hunter template](templates/content-hunter.md)
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3 id="anais-replies">Anais: Reply drafter</h3>
+<h3 id="replies">Replies</h3>
 
-**My work:** finds good conversations to join and drafts replies in your voice.
+**What it does:** finds good conversations to join and drafts replies in your voice.
 
 **Features:**
 - Drafts social media replies
@@ -49,12 +49,12 @@ Four bots that build, schedule, and grow your social media presence. Post one me
 - Reply-back monitoring
 - Performance tracking
 
-**Explore:** [Anais template](templates/anais-replies.md)
+**Explore:** [Replies template](templates/replies.md)
 </td>
 <td width="50%" valign="top">
-<h3 id="grok-producer">Grok Bot: Producer</h3>
+<h3 id="producer">Producer</h3>
 
-**My work:** turns ideas into final drafts, checks them against your rules, gets your approval, and schedules them.
+**What it does:** turns ideas into final drafts, checks them against your rules, gets your approval, and schedules them.
 
 **Features:**
 - Final drafts and scheduling
@@ -62,12 +62,12 @@ Four bots that build, schedule, and grow your social media presence. Post one me
 - Slot pattern management
 - News check routines
 
-**Explore:** [Grok Bot template](templates/grok-bot-x-producer.md)
+**Explore:** [Producer template](templates/producer.md)
 </td>
 </tr>
 </table>
 
-**Team coordination:** [Project Stardom group chat](templates/project-stardom-group.md) connects all four content bots in one room.
+**Team coordination:** [Content team group chat](templates/content-team-group-chat.md) connects all four content bots in one room.
 
 <h2 id="work-team"><img src="https://raw.githubusercontent.com/RawPowered/RawPowered/main/assets/profile/sections/project-mark.svg" alt="" width="28" height="28"> Work team</h2>
 
@@ -76,9 +76,9 @@ Two bots that handle job search, freelance outreach, and email. Post one update 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3 id="cyril-email">Cyril Figgis: Work and email</h3>
+<h3 id="work-email">Work and email</h3>
 
-**My work:** handles email, resumes, cover letters and applications.
+**What it does:** handles email, resumes, cover letters and applications.
 
 **Features:**
 - Job search and email assistant
@@ -86,25 +86,25 @@ Two bots that handle job search, freelance outreach, and email. Post one update 
 - Application form management
 - Freelance outreach workflow
 
-**Explore:** [Cyril Figgis template](templates/cyril-figgis-work-email.md)
+**Explore:** [Work and email template](templates/work-and-email.md)
 </td>
 <td width="50%" valign="top">
-<h3 id="rodger-outreach">Rodger Smith: Career and outreach</h3>
+<h3 id="career-outreach">Career and outreach</h3>
 
-**My work:** handles job and client outreach and keeps your background facts consistent.
+**What it does:** handles job and client outreach and keeps your background facts consistent.
 
 **Features:**
 - Application and outreach writing
 - Cover letter generation
-- Plain, natural voice
+- Professional tone
 - Cold outreach format
 
-**Explore:** [Rodger Smith template](templates/rodger-smith.md)
+**Explore:** [Career and outreach template](templates/career-and-outreach.md)
 </td>
 </tr>
 </table>
 
-**Team coordination:** [Project Money Bags group chat](templates/project-money-bags-group.md) connects both work bots in one room.
+**Team coordination:** [Coordination group chat](templates/coordination-group-chat.md) connects both work bots in one room.
 
 <h2 id="how-they-work-together"><img src="https://raw.githubusercontent.com/RawPowered/RawPowered/main/assets/profile/sections/project-mark.svg" alt="" width="28" height="28"> How they work together</h2>
 
@@ -135,7 +135,7 @@ The group chat templates only matter once you have two or more bots. Start with 
 
 <h2 id="about-schedule-times"><img src="https://raw.githubusercontent.com/RawPowered/RawPowered/main/assets/profile/sections/project-mark.svg" alt="" width="28" height="28"> About schedule times</h2>
 
-Any times in these templates are examples. Set your own to fit your posting needs, and use the analytics template to find the best ones.
+Any times in these templates are examples. Set your own to fit your posting needs, work schedule, and routine preferences.
 
 **Explore all templates:** [templates/](templates/)
 
