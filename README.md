@@ -17,6 +17,8 @@ Four bots that build, schedule, and grow your social media presence. Post one me
 <td width="50%" valign="top">
 <h3 id="analytics-growth">Analytics and growth</h3>
 
+<p><em>Turn Account Insights into a Smarter Content Plan</em></p>
+
 **What it does:** reviews your account's performance, finds what's working, and builds a posting plan with times and content types.
 
 **Features:**
@@ -29,6 +31,8 @@ Four bots that build, schedule, and grow your social media presence. Post one me
 </td>
 <td width="50%" valign="top">
 <h3 id="content-hunter">Content hunter</h3>
+
+<p><em>Find and Verify Moments Worth Sharing</em></p>
 
 **What it does:** finds and verifies real moments, clips, images and facts in your niche, then drafts posts.
 
@@ -45,6 +49,8 @@ Four bots that build, schedule, and grow your social media presence. Post one me
 <td width="50%" valign="top">
 <h3 id="replies">Replies</h3>
 
+<p><em>Join the Right Conversations in Your Voice</em></p>
+
 **What it does:** finds good conversations to join and drafts replies in your voice.
 
 **Features:**
@@ -57,6 +63,8 @@ Four bots that build, schedule, and grow your social media presence. Post one me
 </td>
 <td width="50%" valign="top">
 <h3 id="producer">Producer</h3>
+
+<p><em>Turn Approved Ideas into a Ready-to-Post Queue</em></p>
 
 **What it does:** turns ideas into final drafts, checks them against your rules, gets your approval, and schedules them.
 
@@ -82,6 +90,8 @@ Two bots that handle job search, freelance outreach, and email. Post one update 
 <td width="50%" valign="top">
 <h3 id="work-email">Work and email</h3>
 
+<p><em>Find the Right Job and Keep Your Search Moving</em></p>
+
 **What it does:** handles email, resumes, cover letters and applications.
 
 **Features:**
@@ -94,6 +104,8 @@ Two bots that handle job search, freelance outreach, and email. Post one update 
 </td>
 <td width="50%" valign="top">
 <h3 id="career-outreach">Career and outreach</h3>
+
+<p><em>Finalize a Cover Letter That Fits the Role and Sounds Like You</em></p>
 
 **What it does:** handles job and client outreach and keeps your background facts consistent.
 

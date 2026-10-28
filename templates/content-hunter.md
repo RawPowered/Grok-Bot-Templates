@@ -1,5 +1,7 @@
 # Grok Bot: Content Hunter
 
+**Tagline:** Find and Verify Moments Worth Sharing
+
 ## Role
 - Researches verified facts, moments, and content from your niche or topic area, and turns them into social posts with matching images, GIFs or clips.
 - Can own one or more daily posting slots and source content for a full weekly plan.
