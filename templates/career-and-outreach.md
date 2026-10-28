@@ -1,4 +1,6 @@
-# Grok Bot: Career and Outreach
+<h1><img src="../assets/bot-titles/career-and-outreach.svg" alt="Career and outreach" width="100%"></h1>
+
+<p align="center"><img src="../assets/bot-icons/career-and-outreach.png" alt="Rose glass Grok Bot icon for career writing and outreach" width="180"></p>
 
 **Tagline:** Finalize a Cover Letter That Fits the Role and Sounds Like You
 

@@ -15,7 +15,9 @@ Four bots that build, schedule, and grow your social media presence. Post one me
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3 id="analytics-growth">Analytics and growth</h3>
+<h3 id="analytics-growth"><img src="assets/bot-titles/analytics-and-growth.svg" alt="Analytics and growth" width="100%"></h3>
+
+<p align="center"><img src="assets/bot-icons/analytics-and-growth.png" alt="Violet glass Grok Bot icon for analytics and growth" width="180"></p>
 
 <p><em>Turn Account Insights into a Smarter Content Plan</em></p>
 
@@ -30,7 +32,9 @@ Four bots that build, schedule, and grow your social media presence. Post one me
 **Explore:** [Analytics and growth template](templates/analytics-and-growth.md)
 </td>
 <td width="50%" valign="top">
-<h3 id="content-hunter">Content hunter</h3>
+<h3 id="content-hunter"><img src="assets/bot-titles/content-hunter.svg" alt="Content hunter" width="100%"></h3>
+
+<p align="center"><img src="assets/bot-icons/content-hunter.png" alt="Coral glass Grok Bot icon for content discovery" width="180"></p>
 
 <p><em>Find and Verify Moments Worth Sharing</em></p>
 
@@ -47,7 +51,9 @@ Four bots that build, schedule, and grow your social media presence. Post one me
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3 id="replies">Replies</h3>
+<h3 id="replies"><img src="assets/bot-titles/replies.svg" alt="Replies" width="100%"></h3>
+
+<p align="center"><img src="assets/bot-icons/replies.png" alt="Cyan glass Grok Bot icon for replies and conversation" width="180"></p>
 
 <p><em>Join the Right Conversations in Your Voice</em></p>
 
@@ -62,7 +68,9 @@ Four bots that build, schedule, and grow your social media presence. Post one me
 **Explore:** [Replies template](templates/replies.md)
 </td>
 <td width="50%" valign="top">
-<h3 id="producer">Producer</h3>
+<h3 id="producer"><img src="assets/bot-titles/producer.svg" alt="Producer" width="100%"></h3>
+
+<p align="center"><img src="assets/bot-icons/producer.png" alt="Amber glass Grok Bot icon for production and publishing" width="180"></p>
 
 <p><em>Turn Approved Ideas into a Ready-to-Post Queue</em></p>
 
@@ -88,7 +96,9 @@ Two bots that handle job search, freelance outreach, and email. Post one update 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3 id="work-email">Work and email</h3>
+<h3 id="work-email"><img src="assets/bot-titles/work-and-email.svg" alt="Work and email" width="100%"></h3>
+
+<p align="center"><img src="assets/bot-icons/work-and-email.png" alt="Blue glass Grok Bot icon for job search and email" width="180"></p>
 
 <p><em>Find the Right Job and Keep Your Search Moving</em></p>
 
@@ -103,7 +113,9 @@ Two bots that handle job search, freelance outreach, and email. Post one update 
 **Explore:** [Work and email template](templates/work-and-email.md)
 </td>
 <td width="50%" valign="top">
-<h3 id="career-outreach">Career and outreach</h3>
+<h3 id="career-outreach"><img src="assets/bot-titles/career-and-outreach.svg" alt="Career and outreach" width="100%"></h3>
+
+<p align="center"><img src="assets/bot-icons/career-and-outreach.png" alt="Rose glass Grok Bot icon for career writing and outreach" width="180"></p>
 
 <p><em>Finalize a Cover Letter That Fits the Role and Sounds Like You</em></p>
 

@@ -1,4 +1,6 @@
-# Grok Bot: Content Hunter
+<h1><img src="../assets/bot-titles/content-hunter.svg" alt="Content hunter" width="100%"></h1>
+
+<p align="center"><img src="../assets/bot-icons/content-hunter.png" alt="Coral glass Grok Bot icon for content discovery" width="180"></p>
 
 **Tagline:** Find and Verify Moments Worth Sharing
 

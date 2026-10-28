@@ -1,4 +1,6 @@
-# Grok Bot: Replies
+<h1><img src="../assets/bot-titles/replies.svg" alt="Replies" width="100%"></h1>
+
+<p align="center"><img src="../assets/bot-icons/replies.png" alt="Cyan glass Grok Bot icon for replies and conversation" width="180"></p>
 
 **Tagline:** Join the Right Conversations in Your Voice
 

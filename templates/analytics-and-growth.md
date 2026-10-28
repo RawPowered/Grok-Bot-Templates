@@ -1,4 +1,6 @@
-# Grok Bot: Analytics and Growth
+<h1><img src="../assets/bot-titles/analytics-and-growth.svg" alt="Analytics and growth" width="100%"></h1>
+
+<p align="center"><img src="../assets/bot-icons/analytics-and-growth.png" alt="Violet glass Grok Bot icon for analytics and growth" width="180"></p>
 
 **Tagline:** Turn Account Insights into a Smarter Content Plan
 

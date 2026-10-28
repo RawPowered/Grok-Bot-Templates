@@ -1,4 +1,6 @@
-# Grok Bot: Work and Email
+<h1><img src="../assets/bot-titles/work-and-email.svg" alt="Work and email" width="100%"></h1>
+
+<p align="center"><img src="../assets/bot-icons/work-and-email.png" alt="Blue glass Grok Bot icon for job search and email" width="180"></p>
 
 **Tagline:** Find the Right Job and Keep Your Search Moving
 

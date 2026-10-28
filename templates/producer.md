@@ -1,4 +1,6 @@
-# Grok Bot: Producer
+<h1><img src="../assets/bot-titles/producer.svg" alt="Producer" width="100%"></h1>
+
+<p align="center"><img src="../assets/bot-icons/producer.png" alt="Amber glass Grok Bot icon for production and publishing" width="180"></p>
 
 **Tagline:** Turn Approved Ideas into a Ready-to-Post Queue
 
