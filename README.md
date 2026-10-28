@@ -1,6 +1,10 @@
+![Grok Bot Templates banner: official Grok Bot wordmark with a dark glass and lime treatment](assets/grok-bot-templates-banner.png)
+
 # Grok Bot Templates
 
-A set of Grok Bot templates for solo creators and marketers. Use them as a full team, or pick just one.
+An independent community collection of Grok Bot templates for solo creators and marketers. Use them as a full team, or pick just one.
+
+**Independent community project:** This repository is not an official Grok Bot product and is not affiliated with, endorsed by, or sponsored by X, xAI, their affiliates, or the Grok Bot team. “Grok Bot,” its logos, and related marks belong to their respective rights holders. I do not claim ownership of Grok Bot or any associated intellectual property. I cannot provide support for the Grok Bot product; support here is limited to these community-authored templates.
 
 **Start with the templates:** [Content bots](#content-team) · [Work bots](#work-team) · [How they work together](#how-they-work-together) · [Using one alone](#how-each-works-alone)
 
