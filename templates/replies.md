@@ -4,6 +4,8 @@
 
 **Tagline:** Join the Right Conversations in Your Voice
 
+**Install:** [Get this bot on Grok Bot](https://x.ai/bot/PeH2QA0pYFIVdmy5XLc6K)
+
 <p><img src="../assets/bot-control-cards/replies.svg" alt="Human stays in control: I draft reply options in your voice. You choose, edit, and post each response." width="100%"></p>
 
 ## Role

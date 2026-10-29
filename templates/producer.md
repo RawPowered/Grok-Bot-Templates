@@ -4,6 +4,8 @@
 
 **Tagline:** Turn Approved Ideas into a Ready-to-Post Queue
 
+**Install:** [Get this bot on Grok Bot](https://x.ai/bot/7lqqapGJKbcIkKQSmQ_Ac)
+
 <p><img src="../assets/bot-control-cards/producer.svg" alt="Human stays in control: I assemble your drafts into a posting queue. You approve exact wording before a post is scheduled." width="100%"></p>
 
 ## Role

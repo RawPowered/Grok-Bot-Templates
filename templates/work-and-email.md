@@ -4,6 +4,8 @@
 
 **Tagline:** Find the Right Job and Keep Your Search Moving
 
+**Install:** [Get this bot on Grok Bot](https://x.ai/bot/D0anrx5c-zYb15ybiumjj)
+
 <p><img src="../assets/bot-control-cards/work-and-email.svg" alt="Human stays in control: I find roles and prepare emails or applications. You approve every send and submission." width="100%"></p>
 
 ## Role
