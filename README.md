@@ -39,7 +39,7 @@ Four bots that build, schedule, and grow your social media presence. Post one me
 - Weekly engagement reports
 - News watch and performance analysis
 
-**Explore:** [Analytics and growth template](templates/analytics-and-growth.md)
+**Explore:** [Analytics and growth template](templates/analytics-and-growth.md) · **Install:** [Get this bot](https://x.ai/bot/aqX0_FH5lxA8jTfw-U3Gk)
 </td>
 <td width="50%" valign="top">
 <h3 id="content-hunter"><img src="assets/bot-titles/content-hunter.svg" alt="Content hunter" width="100%"></h3>
@@ -58,7 +58,7 @@ Four bots that build, schedule, and grow your social media presence. Post one me
 - Weekly content planning
 - Source verification
 
-**Explore:** [Content hunter template](templates/content-hunter.md)
+**Explore:** [Content hunter template](templates/content-hunter.md) · **Install:** [Get this bot](https://x.ai/bot/tnN0hfn_HZKFJWMj8Peg4)
 </td>
 </tr>
 <tr>
@@ -79,7 +79,7 @@ Four bots that build, schedule, and grow your social media presence. Post one me
 - Reply-back monitoring
 - Performance tracking
 
-**Explore:** [Replies template](templates/replies.md)
+**Explore:** [Replies template](templates/replies.md) · **Install:** [Get this bot](https://x.ai/bot/PeH2QA0pYFIVdmy5XLc6K)
 </td>
 <td width="50%" valign="top">
 <h3 id="producer"><img src="assets/bot-titles/producer.svg" alt="Producer" width="100%"></h3>
@@ -98,7 +98,7 @@ Four bots that build, schedule, and grow your social media presence. Post one me
 - Slot pattern management
 - News check routines
 
-**Explore:** [Producer template](templates/producer.md)
+**Explore:** [Producer template](templates/producer.md) · **Install:** [Get this bot](https://x.ai/bot/7lqqapGJKbcIkKQSmQ_Ac)
 </td>
 </tr>
 </table>
@@ -128,7 +128,7 @@ Two bots that handle job search, freelance outreach, and email. Post one update 
 - Application form management
 - Freelance outreach workflow
 
-**Explore:** [Work and email template](templates/work-and-email.md)
+**Explore:** [Work and email template](templates/work-and-email.md) · **Install:** [Get this bot](https://x.ai/bot/D0anrx5c-zYb15ybiumjj)
 </td>
 <td width="50%" valign="top">
 <h3 id="career-outreach"><img src="assets/bot-titles/career-and-outreach.svg" alt="Career and outreach" width="100%"></h3>
@@ -147,7 +147,7 @@ Two bots that handle job search, freelance outreach, and email. Post one update 
 - Professional tone
 - Cold outreach format
 
-**Explore:** [Career and outreach template](templates/career-and-outreach.md)
+**Explore:** [Career and outreach template](templates/career-and-outreach.md) · **Install:** [Get this bot](https://x.ai/bot/H8v4I13CL50rLH6mJUdmQ)
 </td>
 </tr>
 </table>

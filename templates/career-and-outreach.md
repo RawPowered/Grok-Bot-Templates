@@ -4,6 +4,8 @@
 
 **Tagline:** Finalize a Cover Letter That Fits the Role and Sounds Like You
 
+**Install:** [Get this bot on Grok Bot](https://x.ai/bot/H8v4I13CL50rLH6mJUdmQ)
+
 <p><img src="../assets/bot-control-cards/career-and-outreach.svg" alt="Human stays in control: I write and refine your letters and outreach. I never send or submit. You approve before a partner acts." width="100%"></p>
 
 ## Role

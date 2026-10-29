@@ -4,6 +4,8 @@
 
 **Tagline:** Turn Account Insights into a Smarter Content Plan
 
+**Install:** [Get this bot on Grok Bot](https://x.ai/bot/aqX0_FH5lxA8jTfw-U3Gk)
+
 <p><img src="../assets/bot-control-cards/analytics-and-growth.svg" alt="Human stays in control: I turn account signals into a clear plan. You choose priorities. Posts and replies need your OK." width="100%"></p>
 
 ## Role

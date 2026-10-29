@@ -4,6 +4,8 @@
 
 **Tagline:** Find and Verify Moments Worth Sharing
 
+**Install:** [Get this bot on Grok Bot](https://x.ai/bot/tnN0hfn_HZKFJWMj8Peg4)
+
 <p><img src="../assets/bot-control-cards/content-hunter.svg" alt="Human stays in control: I find and verify ideas, sources, and media. You approve every draft before it is shared." width="100%"></p>
 
 ## Role
